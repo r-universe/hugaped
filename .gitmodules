@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MBNMAdose"]
-	path = MBNMAdose
-	url = https://github.com/hugaped/mbnmadose
-	shallow = true
-	registered = true
