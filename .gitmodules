@@ -8,3 +8,8 @@
 	url = https://github.com/hugaped/mbnmadose
 	shallow = true
 	registered = true
+[submodule "MBNMAtime"]
+	path = MBNMAtime
+	url = https://github.com/hugaped/mbnmatime
+	shallow = true
+	registered = true
