@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MBNMAdose"]
 	path = MBNMAdose
 	url = https://github.com/hugaped/mbnmadose
-	shallow = true
-	registered = true
 [submodule "MBNMAtime"]
 	path = MBNMAtime
 	url = https://github.com/hugaped/mbnmatime
-	shallow = true
-	registered = true
