@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MBNMAdose"]
+	path = MBNMAdose
+	url = https://github.com/hugaped/mbnmadose
 [submodule "MBNMAtime"]
 	path = MBNMAtime
 	url = https://github.com/hugaped/mbnmatime
